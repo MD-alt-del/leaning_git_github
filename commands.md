@@ -1,10 +1,15 @@
 ## Learning Git and Github
 
 
-_First Command_
+
 
 ```bash
 git clone <repository url>
 ```
+It is used to clone / download the repository.
 
+
+```bash
+git pull & git push
+```
 
